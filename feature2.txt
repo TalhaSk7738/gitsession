@@ -1,1 +1,2 @@
 echo " this is feature 2"
+echo "some more feature added"
